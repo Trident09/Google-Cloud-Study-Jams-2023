@@ -1,5 +1,7 @@
 # GSP119
 
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4892605/labs/377392
+
 ## Run in cloudshell
 
 ### Press `y` , `ENTER` > `ENTER` > `ENTER` > `n`, `ENTER`

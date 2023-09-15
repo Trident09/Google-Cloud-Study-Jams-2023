@@ -1,5 +1,7 @@
 # Quiz 2
 
+QUIZ LINK : https://www.cloudskillsboost.google/course_sessions/4892605/quizzes/377395
+
 ---
 
 ## What Google machine learning API can be used to convert audio to text for data processing?

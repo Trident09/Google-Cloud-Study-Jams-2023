@@ -1,5 +1,7 @@
 # Quiz 1
 
+QUIZ LINK : https://www.cloudskillsboost.google/course_sessions/4892605/quizzes/377379
+
 ---
 
 ## You can use three basic patterns to load data into BigQuery. Which one involves using SQL statements to insert rows into an existing table or to write the results of a query to a table?
