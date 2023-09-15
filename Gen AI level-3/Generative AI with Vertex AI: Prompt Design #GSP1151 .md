@@ -1,6 +1,7 @@
 # GSP1151
 
-LAB LINK : https://www.cloudskillsboost.google/games/4422/labs/28608
+LAB LINK : https://www.cloudskillsboost.google/games/4422/labs/28608 \
+Video : https://youtu.be/ecU8wcnQyjk
 
 ```cmd
 https://console.cloud.google.com/vertex-ai/workbench/user-managed?
