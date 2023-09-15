@@ -1,6 +1,7 @@
 # ARC122
 
-LAB LINK : https://www.cloudskillsboost.google/games/4422/labs/28605
+LAB LINK : https://www.cloudskillsboost.google/games/4422/labs/28605 \
+Video : https://youtu.be/L8m_JQx4GRg
 
 ## Run in cloudshell
 
