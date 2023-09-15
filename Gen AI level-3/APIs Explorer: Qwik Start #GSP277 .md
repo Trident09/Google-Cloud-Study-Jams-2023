@@ -1,6 +1,7 @@
 # GSP277
 
 LAB LINK : https://www.cloudskillsboost.google/games/4422/labs/28603
+Video : https://youtu.be/dUa_Gud5vLQ
 
 ## Run in cloudshell
 
