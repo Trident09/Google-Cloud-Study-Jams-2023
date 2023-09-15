@@ -1,5 +1,7 @@
 # Quiz 1
 
+QUIZ LINK : https://www.cloudskillsboost.google/course_sessions/4892518/quizzes/377215
+
 ---
 
 ## What term describes where the Google network is connected to the rest of the internet?

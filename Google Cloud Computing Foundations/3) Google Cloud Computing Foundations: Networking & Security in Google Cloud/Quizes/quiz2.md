@@ -1,5 +1,7 @@
 # Quiz 2
 
+QUIZ LINK : https://www.cloudskillsboost.google/course_sessions/4892518/quizzes/377224
+
 ---
 
 ## Which one of the following provides access to logs created by developers who deploy code to Google Cloud?

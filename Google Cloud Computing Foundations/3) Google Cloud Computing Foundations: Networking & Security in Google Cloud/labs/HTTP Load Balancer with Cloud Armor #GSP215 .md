@@ -1,5 +1,7 @@
 # GSP215
 
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4892518/labs/377214
+
 ## Run in cloudshell
 
 ### Get REGION 1 AND REGION 2 from Task 2

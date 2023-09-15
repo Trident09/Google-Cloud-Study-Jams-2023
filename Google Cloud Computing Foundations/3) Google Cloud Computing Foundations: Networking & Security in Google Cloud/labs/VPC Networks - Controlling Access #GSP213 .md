@@ -1,5 +1,7 @@
 # GSP213
 
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4892518/labs/377210
+
 ## Run in cloudshell
 
 ```cmd
