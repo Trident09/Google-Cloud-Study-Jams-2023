@@ -1,6 +1,7 @@
 # GSP038
 
 LAB LINK : https://www.cloudskillsboost.google/games/4422/labs/28607
+Video : https://youtu.be/Or46jl6yInw
 
 ## CREATE AN API_KEY > APIs & Services > Credentials > Create Credentials > API key
 
