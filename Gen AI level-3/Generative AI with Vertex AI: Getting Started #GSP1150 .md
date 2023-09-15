@@ -1,6 +1,7 @@
 # GSP1150
 
-LAB LINK : https://www.cloudskillsboost.google/games/4422/labs/28609
+LAB LINK : https://www.cloudskillsboost.google/games/4422/labs/28609 \
+Video : https://youtu.be/iFNy7sVaAek
 
 ## Open the link    
 
