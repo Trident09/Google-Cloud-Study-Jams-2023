@@ -1,6 +1,7 @@
 # GSP1155
 
-LAB LINK : https://www.cloudskillsboost.google/games/4422/labs/28611
+LAB LINK : https://www.cloudskillsboost.google/games/4422/labs/28611 \
+Video : https://youtu.be/Zl9vFQl1cwY
 
 ### APIs & Services > APIs & Services > `Vertex AI API` > Enable
 ## Run in Cloudhell
