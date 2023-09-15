@@ -1,5 +1,7 @@
 # GSP751
 
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893768/labs/404066
+
 ## Run in cloudshell
 
 ### Zone from task 2 >`Create the managed instance groups`> step 3

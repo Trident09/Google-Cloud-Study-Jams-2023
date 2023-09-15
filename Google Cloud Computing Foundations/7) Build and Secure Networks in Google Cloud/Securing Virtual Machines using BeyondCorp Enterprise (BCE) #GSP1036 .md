@@ -1,5 +1,7 @@
 # GSP1036
 
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893768/labs/404062
+
 ## Run in cloudshell
 
 ```cmd
