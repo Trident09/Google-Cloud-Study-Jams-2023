@@ -1,6 +1,7 @@
 # GSP064
 
-LAB LINK : https://www.cloudskillsboost.google/course_sessions/4892428/labs/377287
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4892428/labs/377287 \
+Video : https://youtu.be/mSVoiD-tN60
 
 ## Login with username 1
 
