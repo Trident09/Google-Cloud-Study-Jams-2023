@@ -1,6 +1,7 @@
 # GSP080
 
-LAB LINK : https://www.cloudskillsboost.google/course_sessions/4891692/labs/376205
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4891692/labs/376205 \
+Video : https://youtu.be/inYA1yxgvbw
 
 ## Run in cloudshell
 
