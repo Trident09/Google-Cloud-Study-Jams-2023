@@ -24,7 +24,7 @@ cat > details.json << EOF
   Application home page: $LINK
   Application privacy Policy link: $LINK/privacy
   Authorized domains: $LINKU
-  Developer Contact Information: CloudTrident@gmail.com
+  Developer Contact Information: tempemail@gmail.com
 }
 EOF
 cat details.json
