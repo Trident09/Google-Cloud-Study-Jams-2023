@@ -23,6 +23,7 @@ gcloud compute firewall-rules create allow-http \
 --target-tags=http-server
 gcloud compute ssh lamp-1-vm --zone=$ZONE
 ```
+### Y > ```Enter``` > ```Enter```
 
 ```cmd
 sudo apt-get update
@@ -32,6 +33,7 @@ curl -sSO https://dl.google.com/cloudagents/add-google-cloud-ops-agent-repo.sh
 sudo bash add-google-cloud-ops-agent-repo.sh --also-install
 sudo apt-get update
 ```
+### Y > enter
 
 ## Now do 3 task 
 
