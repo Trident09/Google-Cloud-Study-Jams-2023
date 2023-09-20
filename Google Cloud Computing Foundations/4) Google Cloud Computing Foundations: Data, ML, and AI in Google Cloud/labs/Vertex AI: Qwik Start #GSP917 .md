@@ -33,4 +33,17 @@ gcloud projects add-iam-policy-binding $PROJECT_ID \
 --role="roles/aiplatform.user"
 ```
 
-## Now do task 3 and 4 manually
+## Now do task 3 manually
+
+### Veriex AI > Workbench > Enable Notebooks API > User Managed Notebooks > Create New 
+
+### New Instance > Environment = 
+```TensorFlow Enterprise 2.x (with LTS)```
+
+### Name = Any Name 
+### Fill region Given in lab and any zone within the region 
+### Advanced Options > Machine = E2 - Standard - 2 > Create > Open JupiterLab
+### Click Terminal 
+```cmd
+git clone https://github.com/GoogleCloudPlatform/training-data-analyst
+```
