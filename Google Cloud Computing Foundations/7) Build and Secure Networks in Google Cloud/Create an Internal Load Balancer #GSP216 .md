@@ -4,7 +4,7 @@ LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893768/labs/4040
 
 ## Run in cloudshell
 
-### Zone from task 2 >`Create the managed instance groups`> step 3
+### Zone from task 2 >`Create the managed instance groups`> step 2
 
 ```cmd
 export ZONE=
