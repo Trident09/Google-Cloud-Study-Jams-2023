@@ -1,6 +1,7 @@
 # GSP119
 
-LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893841/labs/403559
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893841/labs/403559 \
+Video : https://youtu.be/xVDqSvm29So
 
 ## Run in cloudshell
 
