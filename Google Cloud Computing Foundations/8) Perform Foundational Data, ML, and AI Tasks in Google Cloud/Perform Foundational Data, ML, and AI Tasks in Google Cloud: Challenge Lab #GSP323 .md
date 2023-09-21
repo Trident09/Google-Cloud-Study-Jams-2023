@@ -51,12 +51,12 @@ Bucket_TASK_4=
 ```
 
 ```cmd
-gcloud iam service-accounts create cloushustler \
+gcloud iam service-accounts create trident \
   --display-name "my natural language service account"
 gcloud iam service-accounts keys create ~/key.json \
-  --iam-account cloushustler@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com
+  --iam-account trident@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com
 cloud="/home/$USER/key.json"
-gcloud auth activate-service-account cloushustler@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com --key-file=$cloud
+gcloud auth activate-service-account trident@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com --key-file=$cloud
 gcloud ml language analyze-entities --content="Old Norse texts portray Odin as one-eyed and long-bearded, frequently wielding a spear named Gungnir and wearing a cloak and a broad hat." > result.json
 gcloud auth login --no-launch-browser
 ```
@@ -77,8 +77,8 @@ EOF
 curl -s -X POST -H "Content-Type: application/json" --data-binary @request.json \
 "https://speech.googleapis.com/v1/speech:recognize?key=${API_KEY}" > result.json
 gsutil cp result.json $Bucket_TASK_3
-gcloud iam service-accounts create cloudhus
-gcloud iam service-accounts keys create key.json --iam-account cloudhus@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com
+gcloud iam service-accounts create cloudtrident
+gcloud iam service-accounts keys create key.json --iam-account cloudtrident@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com
 gcloud auth activate-service-account --key-file key.json
 export ACCESS_TOKEN=$(gcloud auth print-access-token)
 cat > request.json <<EOF
