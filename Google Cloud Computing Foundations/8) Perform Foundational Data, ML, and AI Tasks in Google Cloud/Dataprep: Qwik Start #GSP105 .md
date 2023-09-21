@@ -1,6 +1,7 @@
 # GSP105
 
-LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893841/labs/403553
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893841/labs/403553 \
+Video : https://youtu.be/smfL6B0C--w
 
 ## Run in cloudshell
 
