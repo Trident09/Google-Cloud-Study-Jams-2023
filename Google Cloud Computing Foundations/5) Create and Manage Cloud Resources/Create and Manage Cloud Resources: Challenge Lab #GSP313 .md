@@ -1,6 +1,7 @@
 # GSP313
 
-LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893615/labs/404037
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893615/labs/404037 \
+Video : https://youtu.be/Hs4aa9RP-vM
 
 ### Run in cloudshell
 
