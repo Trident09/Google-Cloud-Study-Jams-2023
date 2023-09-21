@@ -49,3 +49,4 @@ gcloud compute ssh bastion --zone=$ZONE --quiet
 ```cmd
 gcloud compute ssh juice-shop --internal-ip
 ```
+### Y > ```enter``` > ```enter``` > y > ```enter```
