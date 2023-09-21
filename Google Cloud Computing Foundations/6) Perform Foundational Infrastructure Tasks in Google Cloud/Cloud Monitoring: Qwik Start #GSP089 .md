@@ -1,6 +1,7 @@
 # GSP089
 
-LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893697/labs/403965
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893697/labs/403965 \
+Video : https://youtu.be/1b4bPs9cFr0
 
 ## Run in cloudshell
 
