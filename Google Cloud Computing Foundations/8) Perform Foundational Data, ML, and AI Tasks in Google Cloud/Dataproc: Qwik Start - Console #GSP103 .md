@@ -1,6 +1,7 @@
 # GSP103
 
-LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893841/labs/403556
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893841/labs/403556 \
+Video : https://youtu.be/lwv1YsLJeRQ
 
 ## Run in cloudshell
 
