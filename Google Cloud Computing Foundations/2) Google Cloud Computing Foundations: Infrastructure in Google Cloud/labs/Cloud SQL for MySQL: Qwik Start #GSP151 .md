@@ -1,7 +1,7 @@
 # GSP151
 
 LAB LINK : https://www.cloudskillsboost.google/course_sessions/4892428/labs/377260 \
-Video : https://youtu.be/4vnUw0fbb0M
+Video : https://youtu.be/k5QbgWsXfv0
 
 ## Run in cloudshell
 
