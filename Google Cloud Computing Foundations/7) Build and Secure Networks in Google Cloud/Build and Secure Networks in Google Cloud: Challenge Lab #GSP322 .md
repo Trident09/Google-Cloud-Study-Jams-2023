@@ -1,6 +1,7 @@
 # GSP322
 
-LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893768/labs/404067
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893768/labs/404067 \
+Video : https://youtu.be/xw6_9cvjfls
 
 ## Run in Cloudshell
 ```cmd
