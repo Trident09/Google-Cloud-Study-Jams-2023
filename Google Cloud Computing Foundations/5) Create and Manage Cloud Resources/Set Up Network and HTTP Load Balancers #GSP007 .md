@@ -1,6 +1,7 @@
 # GSP007
 
-LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893615/labs/404036
+LAB LINK : https://www.cloudskillsboost.google/course_sessions/4893615/labs/404036 \
+Video : https://youtu.be/KuDbG_OmY-8
 
 ## Run in cloudshsell
 
