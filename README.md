@@ -1,6 +1,8 @@
 # Google-Cloud-Study-Jams-2023
 This repository has all solutions for the Google Cloud Computing Foundation Course and GenAI course
 
+### If you are from National Forensic Sciences university, view the daily progress report here : https://nfsu-gcp.vercel.app
+
 Module 1 : https://www.youtube.com/playlist?list=PL-R87SnjE7I87t8uOPaRmc9r9hf255w-j
 
 Module 2 : https://www.youtube.com/playlist?list=PL-R87SnjE7I8FxzQtOqSlelNAv1MuXwcw
