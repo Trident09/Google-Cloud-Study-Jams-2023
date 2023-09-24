@@ -62,6 +62,8 @@ gcloud ml language analyze-entities --content="Old Norse texts portray Odin as o
 gcloud auth login --no-launch-browser
 ```
 
+### Y > open the link > Select your student Email for the lab > Allow > Copy verification code
+
 ```cmd
 gsutil cp result.json $Bucket_TASK_4
 cat > request.json <<EOF
