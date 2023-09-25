@@ -28,6 +28,8 @@ gcloud compute instances create gcelab2 \
 gcloud compute ssh gcelab --zone=$ZONE
 ```
 
+### Y > ```enter``` > ```enter```
+
 ```cmd
 sudo apt-get update
 sudo apt-get install -y nginx
