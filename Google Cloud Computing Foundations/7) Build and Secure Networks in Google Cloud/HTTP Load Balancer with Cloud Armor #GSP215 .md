@@ -278,6 +278,8 @@ export RULE_IP=$(gcloud compute forwarding-rules describe http-lb-forwarding-rul
 gcloud compute ssh --zone "$VM_ZONE" "siege-vm"
 ```
 
+### Y > ```enter``` > ```enter```
+
 ```cmd
 sudo apt-get -y install siege
 ```
