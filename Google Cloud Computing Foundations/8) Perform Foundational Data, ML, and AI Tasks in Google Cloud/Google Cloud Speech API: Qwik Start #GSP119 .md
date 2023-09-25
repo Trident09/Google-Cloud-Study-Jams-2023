@@ -11,11 +11,11 @@ gcloud compute ssh linux-instance
 
 ### Press `y` , `ENTER` > `ENTER` > `ENTER` > `n`, `ENTER`
 
-### Get API KEY from `Navigation menu` > `APIs & services` > `Credentials` > `Create credentials` > `API key`
-
 ```cmd
 export API_KEY=
 ```
+
+### Get API KEY from `Navigation menu` > `APIs & services` > `Credentials` > `Create credentials` > `API key`
 
 ```cmd
 cat > request.json <<EOF
