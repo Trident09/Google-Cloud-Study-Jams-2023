@@ -5,11 +5,11 @@ Video : https://youtu.be/xVDqSvm29So
 
 ## Run in cloudshell
 
-### Press `y` , `ENTER` > `ENTER` > `ENTER` > `n`, `ENTER`
-
 ```cmd
 gcloud compute ssh linux-instance
 ```
+
+### Press `y` , `ENTER` > `ENTER` > `ENTER` > `n`, `ENTER`
 
 ### Get API KEY from `Navigation menu` > `APIs & services` > `Credentials` > `Create credentials` > `API key`
 
