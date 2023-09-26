@@ -36,7 +36,7 @@ gcloud projects add-iam-policy-binding $PROJECT_ID \
 
 ## Now do task 3 manually
 
-### Veriex AI > Workbench > Enable Notebooks API > User Managed Notebooks > Create New 
+### Vertex AI > Workbench > Enable Notebooks API > User Managed Notebooks > Create New 
 
 ### New Instance > Environment = 
 ```TensorFlow Enterprise 2.x (with LTS)```
