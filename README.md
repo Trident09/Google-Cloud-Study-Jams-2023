@@ -20,3 +20,6 @@ Module 7 : https://www.youtube.com/playlist?list=PL-R87SnjE7I-jdMFOJedBXhO7F7DLW
 Module 8 : https://www.youtube.com/playlist?list=PL-R87SnjE7I_pudKAHDztWMx_z3Xj_mDM
 
 Gen AI : https://www.youtube.com/playlist?list=PL-R87SnjE7I_QroxqmlET20X6W4-KNwK4
+
+
+#### These Solution is Updated till the end of Cloud Study Jam 2023 Cohort 1 - if the lab is updated after cohort 1 then that perticular solution might not work for you
